@@ -1,4 +1,4 @@
-# 
+# Open Source GIMP outils pour Mac OS | Instantané GIMP outils pour PC Windows. Avec fenêtre de référence et outils d'alignement — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
